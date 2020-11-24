@@ -18,13 +18,13 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://testiosicon.s3.us-east-2.amazonaws.com/57.png</string>
+                    <string>https://gitlab.com/ntoannhan/sa-public/-/raw/master/icon-downloading/57.png</string>
                 </dict>
                 <dict>
                    <key>kind</key>
                    <string>full-size-image</string>
                    <key>url</key>
-                   <string>https://testiosicon.s3.us-east-2.amazonaws.com/512.png</string>
+                   <string>https://gitlab.com/ntoannhan/sa-public/-/raw/master/icon-downloading/512.png</string>
                 </dict>
                <!---------->
             </array>
